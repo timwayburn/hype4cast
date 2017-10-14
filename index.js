@@ -1,10 +1,18 @@
 'use strict';
+var fs = require('fs');
+var googleTrends = require('google-trends-api');
 
-var googleTrends = require('./lib/google-trends-api.min.js');
 
 googleTrends.interestOverTime({keyword: 'Valentines Day'})
 .then((res) => {
-  console.log('this is res', res);
+  fs.writeFile("output.json", res, function(err) {
+      if(err) {
+          return console.log(err);
+      }
+
+      console.log("The file was saved!");
+  });
+  //console.log('this is res', res);
 })
 .catch((err) => {
   console.log('got the error', err);

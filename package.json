@@ -1,0 +1,19 @@
+{
+  "name": "hype4cast",
+  "version": "1.0.0",
+  "description": "hype4cast Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timwayburn/hype4cast.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timwayburn/hype4cast/issues"
+  },
+  "homepage": "https://github.com/timwayburn/hype4cast#readme"
+}
