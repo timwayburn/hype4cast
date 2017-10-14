@@ -1,8 +1,8 @@
 'use strict';
 
-var googleTrends = require('./lib/google-trends-api.min.js');
+var googleTrends = require('google-trends-api');
 
-googleTrends.interestOverTime({keyword: 'Valentines Day'})
+googleTrends.interestOverTime({keyword: 'Apple'})
 .then((res) => {
   console.log('this is res', res);
 })
