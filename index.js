@@ -2,8 +2,12 @@
 var fs = require('fs');
 var googleTrends = require('google-trends-api');
 
+<<<<<<< HEAD
+=======
+var googleTrends = require('google-trends-api');
+>>>>>>> 4ea8cb8bffbcf9eccbb831988571f7138bbc5d5f
 
-googleTrends.interestOverTime({keyword: 'Valentines Day'})
+googleTrends.interestOverTime({keyword: 'Apple'})
 .then((res) => {
   fs.writeFile("output.json", res, function(err) {
       if(err) {
