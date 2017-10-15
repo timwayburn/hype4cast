@@ -5,3 +5,5 @@ In this project we tried to study the coorelation between google hits data (as a
 [Click to goto the Website](https://public.tableau.com/views/Book23_106/Dashboard1?:embed=y&:display_count=yes&publish=yes)
 
 [Open Presentation](https://drive.google.com/file/d/0B1aDwNKpHGu4QVE0SHhSbmNPNGs/view?usp=sharing)
+
+Category; Finance hack, Blackrock
