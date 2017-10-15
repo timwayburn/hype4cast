@@ -6,4 +6,4 @@ In this project we tried to study the coorelation between google hits data (as a
 
 [Open Presentation](https://drive.google.com/file/d/0B1aDwNKpHGu4QVE0SHhSbmNPNGs/view?usp=sharing)
 
-Category; Finance hack, Blackrock
+Category: Finance hack, Blackrock
