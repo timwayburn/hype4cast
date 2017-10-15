@@ -10,8 +10,8 @@ var fs = require('fs');
 var googleTrends = require('google-trends-api');
 var googleFinance = require('google-finance');
 
-var finance_symbol = 'NASDAQ:WPRT';
-var stock = 'WPRT';
+var finance_symbol = 'NASDAQ:GLUU';
+var stock = 'GLUU';
 
 var trend_file = stock + '_trend.json';
 var finance_file = stock + '_finance.json';
