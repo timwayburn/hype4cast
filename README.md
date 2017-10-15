@@ -4,3 +4,4 @@ In this project we tried to study the coorelation between google hits data (as a
 
 [Click Me](https://public.tableau.com/views/Book23_106/Dashboard1?:embed=y&:display_count=yes&publish=yes)
 
+[Open Presentation] (https://github.com/timwayburn/hype4cast/blob/master/hype2cast.pptx)
